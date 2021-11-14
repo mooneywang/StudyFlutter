@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
-import 'home_page.dart';
-import 'description_page.dart';
-import 'home_list_page.dart';
+import 'pages/home_page.dart';
+import 'pages/description_page.dart';
+import 'pages/home_list_page.dart';
 
 class MyApp extends StatelessWidget {
 
